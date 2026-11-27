@@ -1,0 +1,13 @@
+{
+  "name": "pusatmart-integrasi",
+  "version": "1.0.0",
+  "description": "Marketplace Integrasi Lintas Database MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongodb": "^6.10.0"
+  }
+}
